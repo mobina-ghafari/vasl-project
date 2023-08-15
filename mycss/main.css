@@ -1,0 +1,28 @@
+@font-face{
+    font-family: yekan;
+    src: url(../font/a3xd_iranyekanwebbold.ttf);
+}
+
+*{
+    font-family: yekan;
+    direction: rtl;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, .03);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.myborder:hover{
+    border: 4px solid #22c55e;
+}
